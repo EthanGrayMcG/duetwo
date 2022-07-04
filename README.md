@@ -4,4 +4,4 @@ DueTwo has embraced the broad goal of making the world a better place. We will s
 
 Please direct any questions to Ethan McGuinness, Executive Director: ethan@duetwo.dev
 
-The website homepage can be seen at duetwo.dev
+The website homepage can be seen at https://duetwo.dev/
