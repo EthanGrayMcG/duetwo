@@ -3,6 +3,6 @@
 
 DueTwo has embraced the broad goal of making the world a better place. We will strive to do this through the software create and publish to the world. The software we create will allow each and every person around the world to help make a difference in our ever-changing world.
 
-Please direct any questions to Ethan McGuinness, Executive Director: ethan@duetwo.dev
+Please direct any questions to Ethan McGuinness, Chief Executive Officer: ethan@duetwo.dev
 
 The website homepage can be seen at https://duetwo.dev/
