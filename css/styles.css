@@ -1577,7 +1577,8 @@ select {
 		top: -100px;
 		left: 100px;
 		width: 535px;
-		max-width: none;
+		max-width: auto;
+
 	}
 	/* end of details 2 */
 
