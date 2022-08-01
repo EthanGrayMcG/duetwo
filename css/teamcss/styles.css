@@ -724,7 +724,7 @@ Colors:
 
 	.cards-3 .card:nth-of-type(4n+2) {
 		margin-right: 1.2rem;
-		margin-left: 2.2rem;
+		margin-left: 1rem;
 	}
 	/* end of team */
 
