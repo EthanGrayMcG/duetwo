@@ -54,9 +54,9 @@ Colors:
 
 .cards-3 .card {
 	max-width: 190px;
-	margin-right: auto;
+	margin-right: -2px;
 	margin-bottom: 4rem;
-	margin-left: auto;
+	margin-left: 8px;
 	border: none;
 }
 
@@ -541,7 +541,7 @@ Colors:
 	}
 
 	.cards-3 .card:nth-of-type(4n+3) {
-		margin-right: 2rem;
+		margin-right: -.5rem;
 		margin-left: 1rem;
 	}
 	/* end of team */
