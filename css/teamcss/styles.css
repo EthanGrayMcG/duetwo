@@ -718,13 +718,13 @@ Colors:
 
 	/* Team */
 	.cards-3 .card:nth-of-type(4n+2) {
-		margin-right: 2.25rem;
-		margin-left: 4.5rem;
+		margin-right: 1.2rem;
+		margin-left: 2.2rem;
 	}
 
-	.cards-3 .card:nth-of-type(4n+3) {
-		margin-right: 4.5rem;
-		margin-left: 2.25rem;
+	.cards-3 .card:nth-of-type(4n+2) {
+		margin-right: 1.2rem;
+		margin-left: 2.2rem;
 	}
 	/* end of team */
 
