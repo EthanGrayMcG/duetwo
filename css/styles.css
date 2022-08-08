@@ -368,8 +368,8 @@ select {
 }
 
 .navbar .logo-image img {
-    width: 149px;
-	height: 40px;
+    width: 159px;
+	height: 30px;
 }
 
 .navbar .logo-text {
@@ -1574,11 +1574,10 @@ select {
 	
 	.counter .image-container img {
 		position: absolute;
-		top: -100px;
-		left: 100px;
-		width: 535px;
-		max-width: auto;
-
+		top: -60px;
+		left: 30px;
+		width: 900px;
+		max-width: none;
 	}
 	/* end of details 2 */
 
