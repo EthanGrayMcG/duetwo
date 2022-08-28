@@ -5,4 +5,4 @@ DueTwo has embraced the broad goal of making the world a better place. We will s
 
 Please direct any questions to Ethan McGuinness, Chief Executive Officer: ethan@duetwo.dev
 
-The website homepage can be seen at https://duetwo.dev/
+The website can be seen at https://duetwo.dev/
